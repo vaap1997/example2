@@ -1,0 +1,6 @@
+a = 15
+halloween
+como estas?
+malaxo
+Chau mundo
+hola de nuevo
